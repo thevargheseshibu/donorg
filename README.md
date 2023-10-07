@@ -5,7 +5,11 @@
 1.  Donorg.sol - The smart contract.
 2.  donorg - Geth Chain Data Backup.
 3.  Public Test Network Deployment Details - Contains Contract Address & Etherscan Link
+4.  Original Repo - https://gitlab.com/thevargheseshibu/donorg
 
+![Notto ](https://github.com/thevargheseshibu/donorg/blob/master/images/Notto.png).
+
+![Flow](https://github.com/thevargheseshibu/donorg/blob/master/images/Flow.png)
 
 ## Setting Up the project:
 
