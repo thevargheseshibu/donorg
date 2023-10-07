@@ -1,0 +1,18 @@
+{
+  "name": "donorg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "geth": "^0.4.0",
+    "lite-server": "^2.6.1",
+    "web3": "^1.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
